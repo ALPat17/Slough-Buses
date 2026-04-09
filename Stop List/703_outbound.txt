@@ -68,4 +68,4 @@
 03700165|Poyle Road (E-Bound)
 03700167|Galleymead Road (E-Bound)
 490010009E|Moor Bridge (Stop D)
-4900164309|Heathrow Terminal 5 (Stop 7)
+4900164307|Heathrow Terminal 5 (Stop 7)
