@@ -31,6 +31,38 @@
       "zonesFile": "Zone Mapping/5_outbound_zones.json",
       "pricesFile": "Price Matrix/5_outbound_prices.json"
   },
+  "6_inbound": {
+      "company": "Thames Valley Buses",
+      "displayName": "🚌 Route 6: Priory Estate → Slough",
+      "lineDescription": "Priory Estate → Slough",
+      "stopsFile": "Stop List/6_inbound.txt",
+      "zonesFile": "Zone Mapping/6_inbound_zones.json",
+      "pricesFile": "Price Matrix/6_inbound_prices.json"
+  },
+  "6_outbound": {
+      "company": "Thames Valley Buses",
+      "displayName": "🚌 Route 6: Slough → Priory Estate",
+      "lineDescription": "Slough → Priory Estate",
+      "stopsFile": "Stop List/6_outbound.txt",
+      "zonesFile": "Zone Mapping/6_outbound_zones.json",
+      "pricesFile": "Price Matrix/6_outbound_prices.json"
+  },
+  "53_inbound": {
+      "company": "Thames Valley Buses",
+      "displayName": "🚌 Route 53: Wexham Park Hospital → Bracknell",
+      "lineDescription": "Wexham Park Hospital → Bracknell",
+      "stopsFile": "Stop List/53_inbound.txt",
+      "zonesFile": "Zone Mapping/53_inbound_zones.json",
+      "pricesFile": "Price Matrix/53_inbound_prices.json"
+  },
+  "53_outbound": {
+      "company": "Thames Valley Buses",
+      "displayName": "🚌 Route 53: Bracknell → Wexham Park Hospital",
+      "lineDescription": "Bracknell → Wexham Park Hospital",
+      "stopsFile": "Stop List/53_outbound.txt",
+      "zonesFile": "Zone Mapping/53_outbound_zones.json",
+      "pricesFile": "Price Matrix/53_outbound_prices.json"
+  },
     "703_inbound": {
       "company": "Thames Valley Buses",
       "displayName": "🚌 Route 703: Heathrow Terminal 5 → Bracknell",
