@@ -23,7 +23,7 @@
 03700382|Salt Hill Park (E-Bound)
 03700325|Wellington Street (Stop C)
 03700311|Sorting Office (Stop J)
-03700309|Suxxex Place (E-Bound)
+03700309|Sussex Place (E-Bound)
 03700074|Langley Road (E-Bound)
 03700077|Kaywood Close (E-Bound)
 03700079|Upton Court Road (E-Bound)
