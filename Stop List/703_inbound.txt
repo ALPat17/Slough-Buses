@@ -56,7 +56,7 @@
 0380J610G231|Goaters Road (SW-Bound)
 0380J492H875|Fernbank Corner (E-Bound)
 036006873876|Winkfield Road (Stop WB)
-036006640641|Ascot Station Hill (Stop SI)
+036006640641|Ascot High Street (Stop SI)
 036006001285|Gainsborough Drive (Stop GG)
 036006001284|Heatherwood Cross (Stop HC)
 036006650651|Ascot War Horse Memorial (Stop MZ)
