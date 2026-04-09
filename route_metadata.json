@@ -1,58 +1,66 @@
 {
   "2_inbound": {
-    "displayName": "🚍 Route 2: Windsor → Wexham Park Hospital",
-    "lineDescription": "Windsor → Wexham Park Hospital",
-    "stopsFile": "Stop List/2_inbound.txt",
-    "zonesFile": "Zone Mapping/2_inbound_zones.json",
-    "pricesFile": "Price Matrix/2_inbound_prices.json"
+      "company": "CTNY",
+      "displayName": "🚍 Route 2: Windsor → Wexham Park Hospital",
+      "lineDescription": "Windsor → Wexham Park Hospital",
+      "stopsFile": "Stop List/2_inbound.txt",
+      "zonesFile": "Zone Mapping/2_inbound_zones.json",
+      "pricesFile": "Price Matrix/2_inbound_prices.json"
   },
   "2_outbound": {
-    "displayName": "🚍 Route 2: Wexham Park Hospital → Windsor",
-    "lineDescription": "Wexham Park Hospital → Windsor",
-    "stopsFile": "Stop List/2_outbound.txt",
-    "zonesFile": "Zone Mapping/2_outbound_zones.json",
-    "pricesFile": "Price Matrix/2_outbound_prices.json"
+      "company": "CTNY",
+      "displayName": "🚍 Route 2: Wexham Park Hospital → Windsor",
+      "lineDescription": "Wexham Park Hospital → Windsor",
+      "stopsFile": "Stop List/2_outbound.txt",
+      "zonesFile": "Zone Mapping/2_outbound_zones.json",
+      "pricesFile": "Price Matrix/2_outbound_prices.json"
   },
   "5_inbound": {
-    "displayName": "🚌 Route 5: Cippenham → Heathrow Terminal 5",
-    "lineDescription": "Cippenham Green → Heathrow",
-    "stopsFile": "Stop List/5_inbound.txt",
-    "zonesFile": "Zone Mapping/5_inbound_zones.json",
-    "pricesFile": "Price Matrix/5_inbound_prices.json"
+      "company": "CTNY",
+      "displayName": "🚌 Route 5: Cippenham → Heathrow Terminal 5",
+      "lineDescription": "Cippenham Green → Heathrow",
+      "stopsFile": "Stop List/5_inbound.txt",
+      "zonesFile": "Zone Mapping/5_inbound_zones.json",
+      "pricesFile": "Price Matrix/5_inbound_prices.json"
   },
   "5_outbound": {
-    "displayName": "🚌 Route 5: Heathrow Terminal 5 → Cippenham",
-    "lineDescription": "Heathrow → Cippenham",
-    "stopsFile": "Stop List/5_outbound.txt",
-    "zonesFile": "Zone Mapping/5_outbound_zones.json",
-    "pricesFile": "Price Matrix/5_outbound_prices.json"
+      "company": "CTNY",
+      "displayName": "🚌 Route 5: Heathrow Terminal 5 → Cippenham",
+      "lineDescription": "Heathrow → Cippenham",
+      "stopsFile": "Stop List/5_outbound.txt",
+      "zonesFile": "Zone Mapping/5_outbound_zones.json",
+      "pricesFile": "Price Matrix/5_outbound_prices.json"
   },
     "703_inbound": {
-    "displayName": "🚌 Route 703: Heathrow Terminal 5 → Bracknell",
-    "lineDescription": "Heathrow Terminal 5 → Bracknell",
-    "stopsFile": "Stop List/703_inbound.txt",
-    "zonesFile": "Zone Mapping/703_inbound_zones.json",
-    "pricesFile": "Price Matrix/703_inbound_prices.json"
+      "company": "CTNY",
+      "displayName": "🚌 Route 703: Heathrow Terminal 5 → Bracknell",
+      "lineDescription": "Heathrow Terminal 5 → Bracknell",
+      "stopsFile": "Stop List/703_inbound.txt",
+      "zonesFile": "Zone Mapping/703_inbound_zones.json",
+      "pricesFile": "Price Matrix/703_inbound_prices.json"
   },
     "703_outbound": {
-    "displayName": "🚌 Route 703: Bracknell → Heathrow Terminal 5",
-    "lineDescription": "Bracknell → Heathrow Terminal 5",
-    "stopsFile": "Stop List/703_outbound.txt",
-    "zonesFile": "Zone Mapping/703_outbound_zones.json",
-    "pricesFile": "Price Matrix/703_outbound_prices.json"
+      "company": "CTNY",
+      "displayName": "🚌 Route 703: Bracknell → Heathrow Terminal 5",
+      "lineDescription": "Bracknell → Heathrow Terminal 5",
+      "stopsFile": "Stop List/703_outbound.txt",
+      "zonesFile": "Zone Mapping/703_outbound_zones.json",
+      "pricesFile": "Price Matrix/703_outbound_prices.json"
   },
     "704_inbound": {
-    "displayName": "🚌 Route 704: Heathrow Terminal 5 → Maidenhead",
-    "lineDescription": "Heathrow Terminal 5 → Maidenhead",
-    "stopsFile": "Stop List/704_inbound.txt",
-    "zonesFile": "Zone Mapping/704_inbound_zones.json",
-    "pricesFile": "Price Matrix/704_inbound_prices.json"
+      "company": "CTNY",
+      "displayName": "🚌 Route 704: Heathrow Terminal 5 → Maidenhead",
+      "lineDescription": "Heathrow Terminal 5 → Maidenhead",
+      "stopsFile": "Stop List/704_inbound.txt",
+      "zonesFile": "Zone Mapping/704_inbound_zones.json",
+      "pricesFile": "Price Matrix/704_inbound_prices.json"
   },
     "704_outbound": {
-    "displayName": "🚌 Route 704: Maidenhead → Heathrow Terminal 5",
-    "lineDescription": "Maidenhead → Heathrow Terminal 5",
-    "stopsFile": "Stop List/704_outbound.txt",
-    "zonesFile": "Zone Mapping/704_outbound_zones.json",
-    "pricesFile": "Price Matrix/704_outbound_prices.json"
+      "company": "CTNY",
+      "displayName": "🚌 Route 704: Maidenhead → Heathrow Terminal 5",
+      "lineDescription": "Maidenhead → Heathrow Terminal 5",
+      "stopsFile": "Stop List/704_outbound.txt",
+      "zonesFile": "Zone Mapping/704_outbound_zones.json",
+      "pricesFile": "Price Matrix/704_outbound_prices.json"
   }
 }
