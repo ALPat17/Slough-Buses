@@ -1,0 +1,8 @@
+03700051|Wexham Park Hospital (Main Entrance)
+040000001403|Fir Tree Avenue (S-Bound)
+040000001401|Muddy Lane (S-Bound)
+03700410|Lismore Park (S-Bound)
+03700351|Shaggy Calf Lane (S-Bound)
+03700349|Queens Road (S-Bound)
+03700558|Stanley Cottages (S-Bound)
+03700533|Brunel Way (Bay 13)

@@ -3,96 +3,112 @@
       "company": "Thames Valley Buses",
       "displayName": "🚍 Route 2: Windsor → Wexham Park Hospital",
       "lineDescription": "Windsor → Wexham Park Hospital",
-      "stopsFile": "Stop List/2_inbound.txt",
-      "zonesFile": "Zone Mapping/2_inbound_zones.json",
-      "pricesFile": "Price Matrix/2_inbound_prices.json"
+      "stopsFile": "Stop List/Thames Valley Buses/2_inbound.txt",
+      "zonesFile": "Zone Mapping/Thames Valley Buses/2_inbound_zones.json",
+      "pricesFile": "Price Matrix/Thames Valley Buses/2_inbound_prices.json"
   },
   "2_outbound": {
       "company": "Thames Valley Buses",
       "displayName": "🚍 Route 2: Wexham Park Hospital → Windsor",
       "lineDescription": "Wexham Park Hospital → Windsor",
-      "stopsFile": "Stop List/2_outbound.txt",
-      "zonesFile": "Zone Mapping/2_outbound_zones.json",
-      "pricesFile": "Price Matrix/2_outbound_prices.json"
+      "stopsFile": "Stop List/Thames Valley Buses/2_outbound.txt",
+      "zonesFile": "Zone Mapping/Thames Valley Buses/2_outbound_zones.json",
+      "pricesFile": "Price Matrix/Thames Valley Buses/2_outbound_prices.json"
   },
   "5_inbound": {
       "company": "Thames Valley Buses",
       "displayName": "🚌 Route 5: Cippenham → Heathrow Terminal 5",
       "lineDescription": "Cippenham Green → Heathrow",
-      "stopsFile": "Stop List/5_inbound.txt",
-      "zonesFile": "Zone Mapping/5_inbound_zones.json",
-      "pricesFile": "Price Matrix/5_inbound_prices.json"
+      "stopsFile": "Stop List/Thames Valley Buses/5_inbound.txt",
+      "zonesFile": "Zone Mapping/Thames Valley Buses/5_inbound_zones.json",
+      "pricesFile": "Price Matrix/Thames Valley Buses/5_inbound_prices.json"
   },
   "5_outbound": {
       "company": "Thames Valley Buses",
       "displayName": "🚌 Route 5: Heathrow Terminal 5 → Cippenham",
       "lineDescription": "Heathrow → Cippenham",
-      "stopsFile": "Stop List/5_outbound.txt",
-      "zonesFile": "Zone Mapping/5_outbound_zones.json",
-      "pricesFile": "Price Matrix/5_outbound_prices.json"
+      "stopsFile": "Stop List/Thames Valley Buses/5_outbound.txt",
+      "zonesFile": "Zone Mapping/Thames Valley Buses/5_outbound_zones.json",
+      "pricesFile": "Price Matrix/Thames Valley Buses/5_outbound_prices.json"
   },
   "6_inbound": {
       "company": "Thames Valley Buses",
       "displayName": "🚌 Route 6: Priory Estate → Slough",
       "lineDescription": "Priory Estate → Slough",
-      "stopsFile": "Stop List/6_inbound.txt",
-      "zonesFile": "Zone Mapping/6_inbound_zones.json",
-      "pricesFile": "Price Matrix/6_inbound_prices.json"
+      "stopsFile": "Stop List/Thames Valley Buses/6_inbound.txt",
+      "zonesFile": "Zone Mapping/Thames Valley Buses/6_inbound_zones.json",
+      "pricesFile": "Price Matrix/Thames Valley Buses/6_inbound_prices.json"
   },
   "6_outbound": {
       "company": "Thames Valley Buses",
       "displayName": "🚌 Route 6: Slough → Priory Estate",
       "lineDescription": "Slough → Priory Estate",
-      "stopsFile": "Stop List/6_outbound.txt",
-      "zonesFile": "Zone Mapping/6_outbound_zones.json",
-      "pricesFile": "Price Matrix/6_outbound_prices.json"
+      "stopsFile": "Stop List/Thames Valley Buses/6_outbound.txt",
+      "zonesFile": "Zone Mapping/Thames Valley Buses/6_outbound_zones.json",
+      "pricesFile": "Price Matrix/Thames Valley Buses/6_outbound_prices.json"
   },
   "53_inbound": {
       "company": "Thames Valley Buses",
       "displayName": "🚌 Route 53: Wexham Park Hospital → Bracknell",
       "lineDescription": "Wexham Park Hospital → Bracknell",
-      "stopsFile": "Stop List/53_inbound.txt",
-      "zonesFile": "Zone Mapping/53_inbound_zones.json",
-      "pricesFile": "Price Matrix/53_inbound_prices.json"
+      "stopsFile": "Stop List/Thames Valley Buses/53_inbound.txt",
+      "zonesFile": "Zone Mapping/Thames Valley Buses/53_inbound_zones.json",
+      "pricesFile": "Price Matrix/Thames Valley Buses/53_inbound_prices.json"
   },
   "53_outbound": {
       "company": "Thames Valley Buses",
       "displayName": "🚌 Route 53: Bracknell → Wexham Park Hospital",
       "lineDescription": "Bracknell → Wexham Park Hospital",
-      "stopsFile": "Stop List/53_outbound.txt",
-      "zonesFile": "Zone Mapping/53_outbound_zones.json",
-      "pricesFile": "Price Matrix/53_outbound_prices.json"
+      "stopsFile": "Stop List/Thames Valley Buses/53_outbound.txt",
+      "zonesFile": "Zone Mapping/Thames Valley Buses/53_outbound_zones.json",
+      "pricesFile": "Price Matrix/Thames Valley Buses/53_outbound_prices.json"
   },
     "703_inbound": {
       "company": "Thames Valley Buses",
       "displayName": "🚌 Route 703: Heathrow Terminal 5 → Bracknell",
       "lineDescription": "Heathrow Terminal 5 → Bracknell",
-      "stopsFile": "Stop List/703_inbound.txt",
-      "zonesFile": "Zone Mapping/703_inbound_zones.json",
-      "pricesFile": "Price Matrix/703_inbound_prices.json"
+      "stopsFile": "Stop List/Thames Valley Buses/703_inbound.txt",
+      "zonesFile": "Zone Mapping/Thames Valley Buses/703_inbound_zones.json",
+      "pricesFile": "Price Matrix/Thames Valley Buses/703_inbound_prices.json"
   },
     "703_outbound": {
       "company": "Thames Valley Buses",
       "displayName": "🚌 Route 703: Bracknell → Heathrow Terminal 5",
       "lineDescription": "Bracknell → Heathrow Terminal 5",
-      "stopsFile": "Stop List/703_outbound.txt",
-      "zonesFile": "Zone Mapping/703_outbound_zones.json",
-      "pricesFile": "Price Matrix/703_outbound_prices.json"
+      "stopsFile": "Stop List/Thames Valley Buses/703_outbound.txt",
+      "zonesFile": "Zone Mapping/Thames Valley Buses/703_outbound_zones.json",
+      "pricesFile": "Price Matrix/Thames Valley Buses/703_outbound_prices.json"
   },
     "704_inbound": {
       "company": "Thames Valley Buses",
       "displayName": "🚌 Route 704: Heathrow Terminal 5 → Maidenhead",
       "lineDescription": "Heathrow Terminal 5 → Maidenhead",
-      "stopsFile": "Stop List/704_inbound.txt",
-      "zonesFile": "Zone Mapping/704_inbound_zones.json",
-      "pricesFile": "Price Matrix/704_inbound_prices.json"
+      "stopsFile": "Stop List/Thames Valley Buses/704_inbound.txt",
+      "zonesFile": "Zone Mapping/Thames Valley Buses/704_inbound_zones.json",
+      "pricesFile": "Price Matrix/Thames Valley Buses/704_inbound_prices.json"
   },
     "704_outbound": {
       "company": "Thames Valley Buses",
       "displayName": "🚌 Route 704: Maidenhead → Heathrow Terminal 5",
       "lineDescription": "Maidenhead → Heathrow Terminal 5",
-      "stopsFile": "Stop List/704_outbound.txt",
-      "zonesFile": "Zone Mapping/704_outbound_zones.json",
-      "pricesFile": "Price Matrix/704_outbound_prices.json"
+      "stopsFile": "Stop List/Thames Valley Buses/704_outbound.txt",
+      "zonesFile": "Zone Mapping/Thames Valley Buses/704_outbound_zones.json",
+      "pricesFile": "Price Matrix/Thames Valley Buses/704_outbound_prices.json"
+  },
+    "WP1_inbound": {
+      "company": "Redline Buses",
+      "displayName": "🚌 Route WP1: Wexham Park Hospital → Slough",
+      "lineDescription": "Wexham Park Hospital → Slough",
+      "stopsFile": "Stop List/Red Lines Buses/WP1_inbound.txt",
+      "zonesFile": "Zone Mapping/Red Line Buses/WP1_inbound_zones.json",
+      "pricesFile": "Price Matrix/Red Line Buses/WP1_inbound_prices.json"
+  },
+    "WP1_outbound": {
+      "company": "Redline Buses",
+      "displayName": "🚌 Route WP1: Slough → Wexham Park Hospital",
+      "lineDescription": "Slough → Wexham Park Hospital",
+      "stopsFile": "Stop List/Red Lines Buses/WP1_outbound.txt",
+      "zonesFile": "Zone Mapping/Red Line Buses/WP1_outbound_zones.json",
+      "pricesFile": "Price Matrix/Red Line Buses/WP1_outbound_prices.json"
   }
 }
