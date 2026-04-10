@@ -126,5 +126,21 @@
       "stopsFile": "Stop List/Carousel Buses/583_outbound.txt",
       "zonesFile": "Zone Mapping/Carousel Buses/583_outbound_zones.json",
       "pricesFile": "Price Matrix/Carousel Buses/583_outbound_prices.json"
+  },
+    "458_inbound": {
+      "company": "Carousel Buses",
+      "displayName": "🚌 Route 458: Uxbridge → Slough",
+      "lineDescription": "Uxbridge → Slough",
+      "stopsFile": "Stop List/Carousel Buses/458_inbound.txt",
+      "zonesFile": "Zone Mapping/Carousel Buses/458_inbound_zones.json",
+      "pricesFile": "Price Matrix/Carousel Buses/458_inbound_prices.json"
+  },
+    "458_outbound": {
+      "company": "Carousel Buses",
+      "displayName": "🚌 Route 458: Slough → Uxbridge",
+      "lineDescription": "Slough → Uxbridge",
+      "stopsFile": "Stop List/Carousel Buses/458_outbound.txt",
+      "zonesFile": "Zone Mapping/Carousel Buses/458_inbound_zones.json",
+      "pricesFile": "Price Matrix/Carousel Buses/458_outbound_prices.json"
   }
 }
