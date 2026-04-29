@@ -366,13 +366,23 @@
     // Segment fare calculation
     function computeSegmentFare(segment) {
         if (!segment.routeKey || !segment.originId || !segment.destId) return null;
+    
         const route = ROUTES_DATA[segment.routeKey];
         if (!route) return null;
+    
         const originZone = route.stopOriginZone[segment.originId];
         const destZone = route.stopDestZone[segment.destId];
+    
         if (!originZone || !destZone) return null;
-        const priceKey = `${originZone}|${destZone}`;
-        const price = route.prices[priceKey];
+    
+        // Forward lookup
+        let price = route.prices[`${originZone}|${destZone}`];
+    
+        // 🔁 Reverse fallback (CRITICAL FIX)
+        if (price === undefined) {
+            price = route.prices[`${destZone}|${originZone}`];
+        }
+    
         return (price !== undefined) ? price : null;
     }
 
